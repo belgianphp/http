@@ -1,0 +1,15 @@
+{
+    "name": "belgian/http",
+    "authors": [
+        {
+            "name": "Estefanio NS",
+            "email": "estefanions@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Belgian\\Http\\": "Belgian/Http/"
+        }
+    }
+}
